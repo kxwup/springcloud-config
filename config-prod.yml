@@ -1,2 +1,2 @@
-server:
-  port: prod
+config:
+  info: prod
